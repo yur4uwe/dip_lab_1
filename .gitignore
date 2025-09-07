@@ -1,0 +1,5 @@
+.vscode
+images/*
+!images/ft/
+images/ft/*
+!images/ft/.gitkeep
